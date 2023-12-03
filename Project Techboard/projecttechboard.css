@@ -1,0 +1,137 @@
+h1{ 
+    font-size: 100px;
+    width: 900px;
+    margin: 10px 10px;
+    font-weight: bolder;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-shadow: 1px 8px 2px rgb(139, 121, 121);
+}
+.but1{
+    font-size: 50px;
+    width: 400px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   margin: 100px 290px;
+   padding: 25px;
+   background-color: rgb(109, 199, 109);
+   border: 3px solid rgb(86, 78, 78);
+   border-radius: 54px;
+   text-shadow: 1px 5px 2px rgb(132, 122, 122);
+   cursor: pointer;
+}
+.but1:hover{
+    color: rgb(34, 12, 12);
+    background-color: rgb(72, 213, 72);
+    border: 4px solid;
+    box-shadow: 6px 4px 4px rgb(144, 136, 136);
+}
+.first{
+    font-size: 26px;
+    font-weight: bold;
+    width: 700px;
+    margin: 25px 25px;
+    font-family: 'Hedvig Letters Serif', serif;
+    text-shadow: 1px 1px 3px rgb(48, 43, 43);
+}
+.secondpara h1{
+    font-size: 75px;
+    font-weight: bolder;
+    width: 700px;
+    text-align: left;
+    margin: 0px 100px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-shadow: 4px 4px 0px rgb(92, 83, 83);
+} 
+.secondpara #h12{
+   position: relative;
+   left: 80px;
+}
+.secondpara #h13{
+    position: relative;
+    left: 210px;
+}
+.secondpara p{
+    font-size: 26px;
+    margin: 20px 0px 10px 120px;
+    width: 800px;
+    text-shadow: 0px 2px 3px rgb(93, 77, 77);
+}
+.allitems{
+    text-shadow: 4px 4px 4px rgb(68, 61, 61);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin: 40px 60px;
+    background-size: 170px;
+}
+.container{
+    height: 550px;
+    width: 470px;
+    border: 16px solid;
+    margin: 250px;
+    padding: 90px;
+    background-color: rgb(58, 50, 50);
+    box-shadow: 6px 6px 6px rgb(81, 69, 69);
+    
+}
+.img{
+    display: inline-block;
+    border: 4px solid;
+    margin: 10px;
+    padding: 10px;
+   
+}
+#image1{
+    position: absolute;
+    right: 745px;
+    top : 1610px;
+    size: 50px;
+    background-color: black;
+
+}
+#image2{
+    position: absolute;
+    top: 1942px;
+    left: 275px;
+    background-color: black;
+}
+#image3{
+    position: absolute;
+    top: 1610px ;
+    left: 275px ;
+    background-color: black;
+}
+#image4{
+    position: absolute;
+    right: 608px;
+    top: 1842px;
+    background-color: black;
+}
+#image5{
+    position: absolute;
+    top: 1610px;
+    right: 623px;
+    background-color: black;
+}
+#image1 img{
+    height: 200px;
+}
+#image2 img{
+    height: 280px;
+}
+#image3 img{
+    height: 300px;
+}
+#image4 img{
+    height: 400px;
+}
+#image5 img{
+    height: 140px;
+}
+.img6{
+    position: absolute;
+    top: 400px;
+    right: 40px;
+}
+#image6 img6{
+    height: 200px;
+}
+
